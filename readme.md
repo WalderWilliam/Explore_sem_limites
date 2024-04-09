@@ -24,4 +24,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-- [Acesse o projeto finalizado, online](https://walderwilliam.github.io/ExploreYourLimits/)
+- [Acesse o projeto finalizado, online](https://walderwilliam.github.io/Explore_sem_limites/)
